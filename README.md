@@ -13,7 +13,6 @@ I work end to end: data pipeline, retrieval layer, evaluation, and the interface
 - **[MeetSynthAI](https://github.com/devsu88/MeetSynthAI)** — LangGraph agent that turns raw meeting transcripts into structured summaries.
 - **[multimodal-rag-nemotron](https://github.com/devsu88/multimodal-rag-nemotron)** — multimodal RAG over recipes with text and image search and reranking.
 - **[excel-analyst-agent](https://github.com/devsu88/excel-analyst-agent)** — multi-agent data analysis over Excel and CSV files from natural language.
-- **[langgraph-agentic-rag](https://github.com/devsu88/langgraph-agentic-rag)** — self-correcting RAG pipeline built with LangGraph.
 
 ### Computer vision
 - **[smart-surveillance](https://github.com/devsu88/smart-surveillance)** — object detection, SORT tracking and line-crossing analytics.
