@@ -7,6 +7,7 @@ I work end to end: data pipeline, retrieval layer, evaluation, and the interface
 
 ### AI products
 - **[farmaco-chiaro](https://github.com/devsu88/farmaco-chiaro)** — plain-language Italian medicine leaflets with a chatbot that cites the exact paragraph. [Live demo](https://farmaco-chiaro.vercel.app)
+- **[my-office](https://github.com/devsu88/my-office)** — local-first document assistant: answers over your PDFs and text files with page-level citations, running fully on your machine with llama.cpp (Qwen3.5-4B, hybrid keyword and vector search), measured against a small evaluation set.
 
 ### Agents and RAG
 - **[resume-agent](https://github.com/devsu88/resume-agent)** — answers questions about a resume and scores how well it matches a job offer, with a LangGraph pipeline and a judge review.
